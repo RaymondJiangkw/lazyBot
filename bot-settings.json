@@ -1,0 +1,52 @@
+{
+	"users": {
+		"wxid_iulu25jqw86m22": {},
+		"wxid_qvk5t1m0p2rv22": {}
+	},
+	"groups": {
+		"23295645364@chatroom": {
+			"switch": true,
+			"monitors": {
+				"wxid_iulu25jqw86m22": {
+					"switch": true,
+					"blacklist": {
+						"users": [],
+						"rules": [],
+						"enable": false
+					},
+					"whitelist": {
+						"users": [
+							"wxid_e4dmkha3rp9q22"
+						],
+						"rules": [],
+						"enable": true
+					},
+					"name": "0"
+				}
+			},
+			"topic": "We are 1903er ⭐ 🔥"
+		},
+		"25127538612@chatroom": {
+			"switch": true,
+			"monitors": {
+				"wxid_iulu25jqw86m22": {
+					"switch": false,
+					"blacklist": {
+						"users": [],
+						"rules": [],
+						"enable": false
+					},
+					"whitelist": {
+						"users": [
+							"wxid_qvk5t1m0p2rv22"
+						],
+						"rules": [],
+						"enable": false
+					},
+					"name": "0"
+				}
+			},
+			"topic": "Möbius,RaymondKevin"
+		}
+	}
+}

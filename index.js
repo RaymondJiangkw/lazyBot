@@ -8,4 +8,4 @@ if (!tokenJSON.token) {
 }
 console.log(`Detect 'token' from './token.json': ${tokenJSON.token}`)
 const main = require("./main.js")
-main(tokenJSON.token)
+main(tokenJSON.token, './bot-settings.json')
